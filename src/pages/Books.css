@@ -32,7 +32,7 @@
     padding: var(--spacing-xs) var(--spacing-md);
     background: transparent;
     border: 1px solid var(--color-bg-tertiary);
-    border-radius: 8px;
+    border-radius: 50px;
     color: var(--color-text-secondary);
     font-family: var(--font-sans);
     font-size: 0.95rem;
