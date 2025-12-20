@@ -1,0 +1,101 @@
+[
+    {
+        "id": "pokemonfirered",
+        "title": "Pokemon Fire Red",
+        "coverImage": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ziq.webp",
+        "year": 2004,
+        "rating": 4,
+        "genre": "RPG",
+        "creator": "Nintendo",
+        "platform": "Nintendo Gameboy Advance",
+        "review": "My favorite Pokemon game."
+    },
+    {
+        "id": "witcher3",
+        "title": "The Witcher 3: Wild Hunt",
+        "coverImage": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaarl.webp",
+        "year": 2015,
+        "rating": 5,
+        "genre": "RPG, Action, Open World",
+        "creator": "CD Projekt Red",
+        "platform": "PC",
+        "review": "My favorite RPG of all time yet. I fell in love with the Witcher franchise after playing this game (still defend the Witcher frnachise with my life). This is the first game I played on my own gaming computer and I play it again and again as a comfort game. I love how there are different regions inspired by European cultures [[highlight: (like Toussaint inspired by france and Skellige inspired by scandinavia)]]. The environments in this game are very comforting to me."
+    },
+    {
+        "id": "eldenring",
+        "title": "Elden Ring",
+        "coverImage": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4jni.webp",
+        "year": 2022,
+        "rating": 4,
+        "genre": "Action RPG, Souls-like",
+        "creator": "FromSoftware",
+        "platform": "PC",
+        "review": "I'm a huge fan of FromSoftware games and Elden Ring is no exception. The lore of this game is the best part. Although the story wasn't as good as [[highlight:Sekiro: Shadows Die Twice]], the lore and the world-building is phenomenal. I started off as a dual wielding dexterity class in early game and used a bleeding build late game."
+    },
+    {
+        "id": "cyberpunk2077",
+        "title": "Cyberpunk 2077",
+        "coverImage": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaih8.webp",
+        "year": 2020,
+        "rating": 4,
+        "genre": "RPG, Action, Open World",
+        "creator": "CD Projekt Red",
+        "platform": " PC",
+        "review": "Being a fan of CD Projekt Red, I pre-ordered this game and was following its latest development news till launch date. Although the launch was disappointing, I still played a considerable portion of this game and I'm ready to defend it at any time. Aside form the mechanics, I think the issues and themes conveyed by this game really matter. The concept of finding a love, belonging and true intimacy in a dystopian world corrupted by capitalism and consumerism is a trope I find very interesting."
+    },
+    {
+        "id": "mother3",
+        "title": "Mother 3",
+        "coverImage": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa3qi.webp",
+        "year": 2006,
+        "rating": 5,
+        "genre": "RPG",
+        "creator": "Nintendo",
+        "platform": "PC-Emulated",
+        "review": "Only got to know about the Mother franchise recently and I'm sad I couldn't play the original games before. The pixel art and graphics in this game are deeply nostalgic to me. "
+    },
+    {
+        "id": "sekiro",
+        "title": "Sekiro: Shadows Die Twice",
+        "coverImage": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2a23.webp",
+        "year": 2019,
+        "rating": 5,
+        "genre": "RPG",
+        "creator": "FromSoftware",
+        "platform": "PC",
+        "review": "My favourite FromSoftware game. The game mechanics are the best in the genre in my opinion. The boss fights also have variety eventhough some are gimmick fights. Took me a whole month to complete at first (this was my first souls-game)."
+    },
+    {
+        "id": "undertale",
+        "title": "Undertale",
+        "coverImage": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob1t2.webp",
+        "year": 2019,
+        "rating": 5,
+        "genre": "RPG",
+        "creator": "Toby Fox",
+        "platform": "PC",
+        "review": "Story-wise, I think this game is the best ever. I don't think any other game has matched the level of emotion and lore this game has offered. The music is great too. The first of its kind in using weird mechanics and breaking the fourth wall. I have no issues with the art-style of this game since the story compensates for it."
+    },
+    {
+        "id": "eastward",
+        "title": "Eastward",
+        "coverImage": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3tul.webp",
+        "year": 2024,
+        "rating": "2",
+        "genre": "Action RPG, Open World",
+        "creator": "Pixpil",
+        "platform": "PC",
+        "review": "Followed this games development from start and I was a big fan of the indie team. I loved the pixel graphics. Although the story didn't meet my expectations, the gameplay was okay and the world-building was good. Not the best action RPG I played but the game has a special place in my heart."
+    },
+    {
+        "id": "stardewvalley",
+        "title": "Stardew Valley",
+        "coverImage": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa93h.webp",
+        "year": 2016,
+        "rating": 5,
+        "genre": "RPG, Farming",
+        "creator": "ConcernedApe",
+        "platform": "PC",
+        "review": "Has to be in my list of favourite games. I keep playing this game over and over due to its relaxing and addictive gameplay. The indie aspect is very special to me too. The graphics and music are very well done. My cup of tea."
+    }
+]

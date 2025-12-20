@@ -4,10 +4,12 @@ import Home from './pages/Home';
 import Cinema from './pages/Cinema';
 import Books from './pages/Books';
 import Songs from './pages/Songs';
+import VideoGames from './pages/VideoGames';
 import ReviewDetail from './components/ReviewDetail';
 import cinemaData from './data/cinema.json';
 import booksData from './data/books.json';
 import songsData from './data/songs.json';
+import videogamesData from './data/videogames.json';
 
 function App() {
   return (
@@ -21,6 +23,8 @@ function App() {
         <Route path="/books/:id" element={<ReviewDetail data={booksData} category="books" />} />
         <Route path="/songs" element={<Songs />} />
         <Route path="/songs/:id" element={<ReviewDetail data={songsData} category="songs" />} />
+        <Route path="/videogames" element={<VideoGames />} />
+        <Route path="/videogames/:id" element={<ReviewDetail data={videogamesData} category="videogames" />} />
       </Routes>
     </div>
   );

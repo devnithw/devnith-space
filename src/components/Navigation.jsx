@@ -11,9 +11,6 @@ function Navigation() {
     return (
         <nav className="nav">
             <div className="container nav-container">
-                <Link to="/" className="nav-logo">
-                    Devnith's Space
-                </Link>
                 <ul className="nav-links">
                     <li>
                         <Link to="/" className={`nav-link ${isActive('/')}`}>
@@ -33,6 +30,11 @@ function Navigation() {
                     <li>
                         <Link to="/songs" className={`nav-link ${isActive('/songs')}`}>
                             Songs
+                        </Link>
+                    </li>
+                    <li>
+                        <Link to="/videogames" className={`nav-link ${isActive('/videogames')}`}>
+                            Games
                         </Link>
                     </li>
                 </ul>

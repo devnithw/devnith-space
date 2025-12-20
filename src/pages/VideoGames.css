@@ -1,0 +1,25 @@
+.videogames-page {
+    min-height: calc(100vh - var(--nav-height));
+    padding-top: var(--spacing-xl);
+}
+
+.page-header {
+    text-align: center;
+    margin-bottom: var(--spacing-xl);
+}
+
+.page-header h1 {
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    margin-bottom: var(--spacing-sm);
+}
+
+.page-description {
+    font-size: 1.1rem;
+    color: var(--color-text-secondary);
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.videogames-page .footer {
+    margin-top: 0;
+}
