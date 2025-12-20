@@ -12,8 +12,8 @@
 .hero-title {
     font-size: clamp(3rem, 8vw, 6rem);
     margin-bottom: var(--spacing-sm);
-    color: var(--color-accent);
-    font-style: italic;
+    color: #ffffff;
+    font-style: normal;
     letter-spacing: -0.03em;
 }
 

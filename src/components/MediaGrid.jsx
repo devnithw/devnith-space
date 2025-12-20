@@ -18,7 +18,7 @@ function MediaGrid({ items, category }) {
                         <img
                             src={item.coverImage}
                             alt={item.title}
-                            className="card-image"
+                            className={`card-image ${category === 'songs' ? 'card-image-square' : ''}`}
                             loading="lazy"
                         />
                         <div className="card-content">

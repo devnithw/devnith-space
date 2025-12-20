@@ -18,14 +18,14 @@
   --color-text-primary: #e8e8e8;
   --color-text-secondary: #a0a0a0;
   --color-text-muted: #6b6b6b;
-  --color-accent: #00ff41;
-  --color-accent-dim: #00cc34;
-  --color-accent-glow: rgba(0, 255, 65, 0.15);
-  
+  --color-accent: #00e054;
+  --color-accent-dim: #00b844;
+  --color-accent-glow: rgba(0, 224, 84, 0.15);
+
   /* Typography */
   --font-serif: 'DM Serif Display', serif;
   --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-  
+
   /* Spacing */
   --spacing-xs: 0.5rem;
   --spacing-sm: 1rem;
@@ -33,11 +33,11 @@
   --spacing-lg: 2rem;
   --spacing-xl: 3rem;
   --spacing-2xl: 4rem;
-  
+
   /* Layout */
-  --container-max: 1400px;
+  --container-max: 80%;
   --nav-height: 80px;
-  
+
   /* Effects */
   --transition-fast: 0.15s ease;
   --transition-base: 0.3s ease;
@@ -81,7 +81,12 @@ body::before {
 }
 
 /* ===== TYPOGRAPHY ===== */
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: var(--font-serif);
   font-weight: 400;
   line-height: 1.2;
@@ -153,6 +158,7 @@ a:hover {
 }
 
 @media (max-width: 768px) {
+
   .grid-2,
   .grid-3,
   .grid-4 {
@@ -182,6 +188,10 @@ a:hover {
   object-fit: cover;
   display: block;
   background: var(--color-bg-tertiary);
+}
+
+.card-image-square {
+  aspect-ratio: 1/1;
 }
 
 .card-content {
@@ -300,11 +310,11 @@ a:hover {
   .nav-links {
     gap: var(--spacing-sm);
   }
-  
+
   .nav-link {
     font-size: 0.85rem;
   }
-  
+
   .nav-logo {
     font-size: 1.5rem;
   }
@@ -335,15 +345,37 @@ a:hover {
   color: var(--color-text-muted);
 }
 
-.mb-sm { margin-bottom: var(--spacing-sm); }
-.mb-md { margin-bottom: var(--spacing-md); }
-.mb-lg { margin-bottom: var(--spacing-lg); }
-.mb-xl { margin-bottom: var(--spacing-xl); }
+.mb-sm {
+  margin-bottom: var(--spacing-sm);
+}
 
-.mt-sm { margin-top: var(--spacing-sm); }
-.mt-md { margin-top: var(--spacing-md); }
-.mt-lg { margin-top: var(--spacing-lg); }
-.mt-xl { margin-top: var(--spacing-xl); }
+.mb-md {
+  margin-bottom: var(--spacing-md);
+}
+
+.mb-lg {
+  margin-bottom: var(--spacing-lg);
+}
+
+.mb-xl {
+  margin-bottom: var(--spacing-xl);
+}
+
+.mt-sm {
+  margin-top: var(--spacing-sm);
+}
+
+.mt-md {
+  margin-top: var(--spacing-md);
+}
+
+.mt-lg {
+  margin-top: var(--spacing-lg);
+}
+
+.mt-xl {
+  margin-top: var(--spacing-xl);
+}
 
 /* ===== ANIMATIONS ===== */
 @keyframes fadeIn {
@@ -351,6 +383,7 @@ a:hover {
     opacity: 0;
     transform: translateY(20px);
   }
+
   to {
     opacity: 1;
     transform: translateY(0);

@@ -1,5 +1,6 @@
 import { Routes, Route } from 'react-router-dom';
 import Navigation from './components/Navigation';
+import Footer from './components/Footer';
 import Home from './pages/Home';
 import Cinema from './pages/Cinema';
 import Books from './pages/Books';
@@ -22,6 +23,7 @@ function App() {
         <Route path="/songs" element={<Songs />} />
         <Route path="/songs/:id" element={<ReviewDetail data={songsData} category="songs" />} />
       </Routes>
+      <Footer />
     </div>
   );
 }

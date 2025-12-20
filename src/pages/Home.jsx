@@ -24,7 +24,7 @@ function Home() {
         <div className="home">
             <section className="hero">
                 <div className="container">
-                    <h1 className="hero-title">Critiques</h1>
+                    <h1 className="hero-title">Devnith's Space</h1>
                     <p className="hero-subtitle">
                         A personal collection of reviews on cinema, literature, and music.
                     </p>
