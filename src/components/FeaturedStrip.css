@@ -1,10 +1,7 @@
 .featured-strip {
     width: 100%;
     overflow: hidden;
-    padding: var(--spacing-xl) 0;
-    background: var(--color-bg-secondary);
-    border-top: 1px solid var(--color-bg-tertiary);
-    border-bottom: 1px solid var(--color-bg-tertiary);
+    padding: var(--spacing-lg) 0;
 }
 
 .featured-scroll {
@@ -29,16 +26,16 @@
 }
 
 .featured-circle {
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
+    width: 130px;
+    height: 195px;
+    border-radius: 4px;
     overflow: hidden;
     box-shadow: var(--shadow-md);
     transition: box-shadow var(--transition-base);
 }
 
 .featured-item:hover .featured-circle {
-    box-shadow: var(--shadow-lg), 0 0 0 3px var(--color-accent);
+    box-shadow: var(--shadow-lg), 0 0 0 2px var(--color-accent);
 }
 
 .featured-image {
@@ -50,7 +47,7 @@
 @media (max-width: 768px) {
     .featured-circle {
         width: 100px;
-        height: 100px;
+        height: 150px;
     }
 
     .featured-items {

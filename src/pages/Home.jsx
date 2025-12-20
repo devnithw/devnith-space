@@ -1,4 +1,5 @@
 import FeaturedStrip from '../components/FeaturedStrip';
+import Footer from '../components/Footer';
 import cinemaData from '../data/cinema.json';
 import booksData from '../data/books.json';
 import './Home.css';
@@ -32,6 +33,10 @@ function Home() {
             </section>
 
             <FeaturedStrip items={recentMedia} />
+
+            <div className="home-footer">
+                <Footer />
+            </div>
         </div>
     );
 }
