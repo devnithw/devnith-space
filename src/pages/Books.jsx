@@ -3,6 +3,11 @@ import booksData from '../data/books.json';
 import './Books.css';
 
 function Books() {
+    // Sort by date_added (most recent first)
+    const sortedBooks = [...booksData].sort((a, b) =>
+        new Date(b.date_added) - new Date(a.date_added)
+    );
+
     return (
         <div className="books-page">
             <div className="container">
@@ -13,7 +18,7 @@ function Books() {
                     </p>
                 </div>
 
-                <MediaGrid items={booksData} category="books" />
+                <MediaGrid items={sortedBooks} category="books" />
             </div>
         </div>
     );

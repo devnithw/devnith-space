@@ -8,6 +8,7 @@
         "rating": 5,
         "genre": "Sci-Fi",
         "director": "Denis Villeneuve",
+        "date_added": "2024-11-15",
         "review": "A masterpiece of visual storytelling. Villeneuve crafts a meditative sequel that honors the original while carving its own path. Roger Deakins' cinematography is nothing short of breathtaking—every frame could be a painting. The film asks profound questions about what it means to be human, memory, and identity. Ryan Gosling delivers a nuanced performance as K, a replicant blade runner searching for meaning in a world that denies him humanity. The synth-heavy score by Hans Zimmer and Benjamin Wallfisch perfectly complements the dystopian atmosphere. This is science fiction at its finest: thought-provoking, visually stunning, and emotionally resonant."
     },
     {
@@ -19,6 +20,7 @@
         "rating": 5,
         "genre": "Comedy",
         "director": "Wes Anderson",
+        "date_added": "2024-10-22",
         "review": "Wes Anderson at his most Wes Anderson. A delightful confection of pastel colors, symmetrical shots, and whimsical storytelling. Ralph Fiennes is absolutely perfect as Gustave H., the legendary concierge whose adventures form the heart of this nested narrative. The film is a love letter to a bygone era of European elegance, told with Anderson's signature visual style and deadpan humor. Every detail is meticulously crafted, from the miniature sets to the costume design. It's both hilarious and melancholic, a bittersweet meditation on nostalgia and the passage of time."
     },
     {
@@ -30,6 +32,7 @@
         "rating": 5,
         "genre": "Thriller",
         "director": "Bong Joon-ho",
+        "date_added": "2024-12-01",
         "review": "A genre-defying masterpiece that seamlessly blends dark comedy, thriller, and social commentary. Bong Joon-ho's direction is impeccable, guiding us through a story that constantly subverts expectations. The film's exploration of class inequality is both subtle and devastating. The production design brilliantly uses architecture to represent social hierarchy—the contrast between the Parks' modernist home and the Kims' semi-basement is stark and symbolic. Every actor delivers a pitch-perfect performance. The film's tonal shifts are daring yet never feel jarring. This is cinema that entertains while making you think deeply about societal structures."
     },
     {
@@ -41,6 +44,7 @@
         "rating": 5,
         "genre": "Action",
         "director": "George Miller",
+        "date_added": "2024-09-18",
         "review": "Pure kinetic cinema. George Miller proves that action films can be both visceral and meaningful. This is essentially a two-hour chase scene, but what a chase scene it is. The practical effects and stunt work are extraordinary—a refreshing antidote to CGI-heavy blockbusters. Charlize Theron's Furiosa is one of the great action heroes, and the film's feminist themes are woven seamlessly into the narrative. The color grading, with its orange desert and blue nights, creates a hellish yet beautiful wasteland. The editing is rhythmic, almost musical. This is how you make an action film: with imagination, craftsmanship, and respect for the audience's intelligence."
     },
     {
@@ -52,6 +56,7 @@
         "rating": 5,
         "genre": "Drama",
         "director": "Barry Jenkins",
+        "date_added": "2024-11-28",
         "review": "An achingly beautiful portrait of identity, masculinity, and self-discovery. Barry Jenkins tells Chiron's story across three chapters of his life with such tenderness and visual poetry. The cinematography by James Laxton is stunning—the way light and color are used to convey emotion is masterful. The performances across all three actors playing Chiron are phenomenal, creating a cohesive character arc. The film explores Black masculinity and queer identity with nuance and empathy rarely seen in cinema. Nicholas Britell's score is hauntingly beautiful. This is intimate, personal filmmaking that achieves universal resonance."
     },
     {
@@ -63,6 +68,7 @@
         "rating": 4,
         "genre": "Sci-Fi",
         "director": "Denis Villeneuve",
+        "date_added": "2024-08-12",
         "review": "Intelligent science fiction that prioritizes ideas over spectacle. Villeneuve crafts a contemplative alien contact story that's really about language, time, and grief. Amy Adams gives a career-best performance as Louise Banks, a linguist trying to communicate with extraterrestrial visitors. The film's exploration of the Sapir-Whorf hypothesis—that language shapes thought—is fascinating. The non-linear narrative structure mirrors the film's themes about perceiving time differently. Jóhann Jóhannsson's score is haunting and otherworldly. The alien ship design is iconic. This is cerebral sci-fi that trusts its audience and rewards patience."
     },
     {
@@ -74,6 +80,7 @@
         "rating": 5,
         "genre": "Crime Drama",
         "creator": "Vince Gilligan",
+        "date_added": "2024-07-05",
         "review": "The greatest character study in television history. Vince Gilligan's masterpiece traces Walter White's transformation from mild-mannered chemistry teacher to ruthless drug kingpin with meticulous precision. Bryan Cranston's performance is transcendent—he makes us sympathize with a monster. The show's visual language is extraordinary, using color symbolism and composition to enhance the storytelling. Every season raises the stakes while maintaining internal logic. Aaron Paul's Jesse Pinkman is the emotional core, and their relationship is the beating heart of the series. The writing is tight, with callbacks and foreshadowing that reward careful viewing. The final season is a masterclass in how to end a series."
     },
     {
@@ -85,6 +92,7 @@
         "rating": 5,
         "genre": "Drama",
         "creator": "Christopher Storer",
+        "date_added": "2024-12-10",
         "review": "Anxiety-inducing brilliance. The Bear captures the chaos of a professional kitchen with documentary-like authenticity. Jeremy Allen White is phenomenal as Carmy, a fine dining chef returning to run his family's sandwich shop. The show's editing and sound design create an almost overwhelming sensory experience—you can feel the heat and pressure. What makes it special is how it balances the professional stress with genuine character development and emotional depth. The supporting cast, especially Ebon Moss-Bachrach and Ayo Edebiri, are outstanding. It's about grief, family, perfectionism, and finding meaning in work. The single-take episodes are technical marvels. This is prestige television at its finest."
     },
     {
@@ -96,6 +104,7 @@
         "rating": 5,
         "genre": "Drama",
         "creator": "Jesse Armstrong",
+        "date_added": "2024-10-30",
         "review": "A Shakespearean tragedy disguised as a corporate drama. Jesse Armstrong's writing is razor-sharp, filled with devastating one-liners and brutal character work. The Roy family is utterly despicable yet completely compelling. Brian Cox's Logan Roy is one of television's great patriarchs—terrifying, pathetic, and oddly sympathetic. The ensemble cast is flawless, with Kieran Culkin's Roman and Sarah Snook's Shiv being particular standouts. The show's dark comedy is perfectly balanced with genuine pathos. Nicholas Britell's theme music is iconic. The cinematography, with its handheld camera work, creates an observational documentary feel. The series finale is perfect—devastating and inevitable."
     },
     {
@@ -107,6 +116,7 @@
         "rating": 5,
         "genre": "Historical Drama",
         "creator": "Craig Mazin",
+        "date_added": "2024-09-25",
         "review": "Harrowing and essential viewing. Craig Mazin's miniseries about the 1986 nuclear disaster is a masterpiece of tension and dread. The attention to historical detail is meticulous, and the production design authentically recreates Soviet-era Ukraine. Jared Harris and Stellan Skarsgård deliver powerful performances as scientists fighting bureaucracy and denial. The show is a chilling examination of how lies and institutional failure can lead to catastrophe—themes that feel disturbingly relevant. The depiction of radiation's effects is horrifying yet never exploitative. Johan Renck's direction creates an atmosphere of mounting horror. This is television that educates while it devastates."
     },
     {
@@ -118,6 +128,7 @@
         "rating": 5,
         "genre": "Comedy",
         "creator": "Phoebe Waller-Bridge",
+        "date_added": "2024-12-05",
         "review": "Phoebe Waller-Bridge's masterpiece. Fleabag is a perfect blend of comedy and tragedy, using fourth-wall breaks to create intimacy with the audience. The titular character is messy, self-destructive, and utterly human. Season 2 elevates everything, introducing Andrew Scott's Hot Priest and exploring themes of faith, love, and self-forgiveness. The writing is phenomenal—every line lands. The show's exploration of grief and female sexuality is refreshingly honest. The chemistry between Waller-Bridge and Scott is electric. The final scene of season 2 is one of television's great endings: heartbreaking, hopeful, and perfect. This is a show that understands that comedy can be profound."
     }
 ]

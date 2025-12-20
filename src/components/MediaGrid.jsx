@@ -23,7 +23,8 @@ function MediaGrid({ items, category }) {
                         />
                         {category === 'songs' && (
                             <div className="card-content">
-                                <h3 className="card-title">{item.title}</h3>
+                                <h3 className="card-title card-title-sans">{item.title}</h3>
+                                <p className="card-artist">{item.artist}</p>
                             </div>
                         )}
                     </Link>

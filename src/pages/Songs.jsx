@@ -3,6 +3,11 @@ import songsData from '../data/songs.json';
 import './Songs.css';
 
 function Songs() {
+    // Sort by date_added (most recent first)
+    const sortedSongs = [...songsData].sort((a, b) =>
+        new Date(b.date_added) - new Date(a.date_added)
+    );
+
     return (
         <div className="songs-page">
             <div className="container">
@@ -13,7 +18,7 @@ function Songs() {
                     </p>
                 </div>
 
-                <MediaGrid items={songsData} category="songs" />
+                <MediaGrid items={sortedSongs} category="songs" />
             </div>
         </div>
     );

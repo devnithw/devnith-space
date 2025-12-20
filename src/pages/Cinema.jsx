@@ -7,8 +7,9 @@ function Cinema() {
     const [filter, setFilter] = useState('all');
 
     const getFilteredData = () => {
-        if (filter === 'all') return cinemaData;
-        return cinemaData.filter(item => item.type === filter);
+        let data = filter === 'all' ? cinemaData : cinemaData.filter(item => item.type === filter);
+        // Sort by date_added (most recent first)
+        return data.sort((a, b) => new Date(b.date_added) - new Date(a.date_added));
     };
 
     const filteredData = getFilteredData();

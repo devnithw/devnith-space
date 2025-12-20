@@ -6,7 +6,7 @@ function Footer() {
             <div className="container">
                 <div className="footer-content">
                     <p className="footer-text">
-                        Connect with me on Instagram:{' '}
+                        Like what you see? Let's connect! :{' '}
                         <a
                             href="https://instagram.com/devnithw"
                             target="_blank"
@@ -17,7 +17,7 @@ function Footer() {
                         </a>
                     </p>
                     <p className="footer-copyright">
-                        © {new Date().getFullYear()} Devnith's Space. All reviews are personal opinions.
+                        © {new Date().getFullYear()} Devnith Wijesinghe. All reviews are personal opinions.
                     </p>
                 </div>
             </div>

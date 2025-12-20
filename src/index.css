@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Roboto:wght@300;400;500;700&display=swap');
 
 /* ===== CSS RESET & BASE ===== */
 *,
@@ -24,7 +24,7 @@
 
   /* Typography */
   --font-serif: 'DM Serif Display', serif;
-  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-sans: 'Roboto', -apple-system, BlinkMacSystemFont, sans-serif;
 
   /* Spacing */
   --spacing-xs: 0.5rem;
@@ -209,6 +209,17 @@ a:hover {
   font-size: 1.1rem;
   margin-bottom: 0.25rem;
   color: var(--color-text-primary);
+}
+
+.card-title-sans {
+  font-family: var(--font-sans);
+  font-weight: 500;
+}
+
+.card-artist {
+  font-size: 0.875rem;
+  color: var(--color-text-muted);
+  margin: 0;
 }
 
 .card-meta {
