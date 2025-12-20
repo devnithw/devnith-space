@@ -5,7 +5,8 @@
         "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1397245854i/28921.jpg",
         "year": 1989,
         "rating": 5,
-        "genre": "Literary Fiction",
+        "genre": "Fiction",
+        "type": "fiction",
         "author": "Kazuo Ishiguro",
         "date_added": "2024-11-20",
         "review": "A devastating meditation on regret and repression. Ishiguro's prose is deceptively simple, using the unreliable narration of Stevens, an English butler, to explore themes of dignity, duty, and missed opportunities. The novel is set during a road trip, but the real journey is internal—Stevens slowly confronting the choices he's made and the life he's denied himself. The relationship between Stevens and Miss Kenton is achingly poignant, all the more powerful for what remains unspoken. Ishiguro masterfully uses the butler's formal language to reveal emotional depths he cannot articulate. The ending is heartbreaking in its quiet resignation. This is a perfect novel about the tragedy of a life unlived."
@@ -16,7 +17,8 @@
         "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453995760i/394535.jpg",
         "year": 1985,
         "rating": 5,
-        "genre": "Western",
+        "genre": "Fiction",
+        "type": "fiction",
         "author": "Cormac McCarthy",
         "date_added": "2024-10-15",
         "review": "McCarthy's apocalyptic masterpiece. This is the anti-Western, stripping away all romanticism to reveal the brutal violence of American expansion. The prose is biblical in its cadence, creating a mythic quality to this tale of the Glanton gang's murderous rampage across the Southwest. Judge Holden is one of literature's great villains—philosophical, terrifying, and possibly supernatural. McCarthy's descriptions of violence are unflinching and poetic. The novel asks profound questions about the nature of evil and whether violence is inherent to humanity. The landscape itself becomes a character, vast and indifferent. This is challenging, often disturbing reading, but it's also profound and unforgettable."
@@ -27,7 +29,8 @@
         "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1488213612i/18423.jpg",
         "year": 1969,
         "rating": 5,
-        "genre": "Science Fiction",
+        "genre": "Fiction",
+        "type": "fiction",
         "author": "Ursula K. Le Guin",
         "date_added": "2024-12-08",
         "review": "Revolutionary science fiction that uses an alien world to examine gender and society. Le Guin creates the planet Gethen, where inhabitants are ambisexual, only taking on male or female characteristics during their fertile period. This brilliant conceit allows Le Guin to explore how gender shapes culture, politics, and personal relationships. The novel is also a compelling story of political intrigue and survival. The relationship between Genly Ai and Estraven is beautifully developed, exploring friendship and understanding across cultural divides. Le Guin's prose is elegant and thoughtful. The journey across the ice is both a physical and emotional odyssey. This is science fiction as literature—imaginative, philosophical, and deeply human."
@@ -38,7 +41,8 @@
         "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656663652i/6149.jpg",
         "year": 1987,
         "rating": 5,
-        "genre": "Historical Fiction",
+        "genre": "Fiction",
+        "type": "fiction",
         "author": "Toni Morrison",
         "date_added": "2024-09-10",
         "review": "A haunting exploration of slavery's legacy. Morrison's novel is both a ghost story and a profound meditation on trauma, memory, and motherhood. Sethe's decision to kill her daughter rather than let her be returned to slavery is the novel's moral center—an act of love that is also an act of violence. Morrison's prose is lyrical and fragmented, mirroring the way trauma disrupts narrative. The character of Beloved—whether ghost, memory, or embodiment of the past—is unforgettable. The novel refuses to let readers look away from the horrors of slavery while also celebrating the resilience of those who survived. This is essential American literature, painful and necessary."
@@ -49,7 +53,8 @@
         "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554659371i/6759.jpg",
         "year": 1996,
         "rating": 4,
-        "genre": "Literary Fiction",
+        "genre": "Fiction",
+        "type": "fiction",
         "author": "David Foster Wallace",
         "date_added": "2024-08-28",
         "review": "An ambitious, sprawling masterpiece about addiction, entertainment, and the search for meaning in contemporary America. Wallace's maximalist novel is challenging—filled with footnotes, digressions, and multiple narrative threads—but also deeply rewarding. The novel's exploration of addiction (to substances, entertainment, validation) feels prescient in our current age of social media and streaming. The characters, from Hal Incandenza to Don Gately, are richly drawn and genuinely moving. Wallace's prose can be dense and show-offy, but it can also be heartbreaking and profound. The ending is deliberately ambiguous, requiring readers to piece together what happens. This is a novel that demands effort but offers genuine insight into modern life."
@@ -60,7 +65,8 @@
         "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1451554970i/17333223.jpg",
         "year": 2013,
         "rating": 4,
-        "genre": "Literary Fiction",
+        "genre": "Fiction",
+        "type": "fiction",
         "author": "Donna Tartt",
         "date_added": "2024-12-12",
         "review": "A Dickensian tale of loss, art, and fate. Tartt's novel follows Theo Decker from a traumatic childhood event through a life shaped by that moment. The painting at the novel's center—Fabritius's The Goldfinch—becomes a symbol of beauty, guilt, and connection. Tartt's prose is lush and immersive, creating a vivid sense of place from New York to Las Vegas to Amsterdam. The character of Boris is a particular highlight—chaotic, loyal, and unforgettable. The novel's exploration of how art gives meaning to life is moving, even if the plot sometimes strains credibility. The final section's philosophical musings divide readers, but they're earnest and thought-provoking. This is old-fashioned storytelling done with skill and heart."

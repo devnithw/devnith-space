@@ -6,7 +6,7 @@ function Footer() {
             <div className="container">
                 <div className="footer-content">
                     <p className="footer-text">
-                        Like what you see? Let's connect! :{' '}
+                        Like what you see? Let's connect!{' '}
                         <a
                             href="https://instagram.com/devnithw"
                             target="_blank"
