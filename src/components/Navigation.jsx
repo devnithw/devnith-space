@@ -12,7 +12,7 @@ function Navigation() {
         <nav className="nav">
             <div className="container nav-container">
                 <Link to="/" className="nav-logo">
-                    Critiques
+                    Devnith's Space
                 </Link>
                 <ul className="nav-links">
                     <li>

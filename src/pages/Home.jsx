@@ -50,13 +50,6 @@ function Home() {
                                     className="card-image"
                                     loading="lazy"
                                 />
-                                <div className="card-content">
-                                    <h3 className="card-title">{item.title}</h3>
-                                    <div className="card-meta">
-                                        <span className="rating">{renderStars(item.rating)}</span>
-                                        <span className="text-muted"> • {item.year}</span>
-                                    </div>
-                                </div>
                             </Link>
                         ))}
                     </div>
@@ -82,13 +75,6 @@ function Home() {
                                     className="card-image"
                                     loading="lazy"
                                 />
-                                <div className="card-content">
-                                    <h3 className="card-title">{item.title}</h3>
-                                    <div className="card-meta">
-                                        <span className="rating">{renderStars(item.rating)}</span>
-                                        <span className="text-muted"> • {item.year}</span>
-                                    </div>
-                                </div>
                             </Link>
                         ))}
                     </div>
@@ -111,15 +97,11 @@ function Home() {
                                 <img
                                     src={item.coverImage}
                                     alt={item.title}
-                                    className="card-image"
+                                    className="card-image-square card-image"
                                     loading="lazy"
                                 />
                                 <div className="card-content">
                                     <h3 className="card-title">{item.title}</h3>
-                                    <div className="card-meta">
-                                        <span className="rating">{renderStars(item.rating)}</span>
-                                        <span className="text-muted"> • {item.year}</span>
-                                    </div>
                                 </div>
                             </Link>
                         ))}

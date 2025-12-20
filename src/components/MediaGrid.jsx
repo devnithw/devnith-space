@@ -21,13 +21,11 @@ function MediaGrid({ items, category }) {
                             className={`card-image ${category === 'songs' ? 'card-image-square' : ''}`}
                             loading="lazy"
                         />
-                        <div className="card-content">
-                            <h3 className="card-title">{item.title}</h3>
-                            <div className="card-meta">
-                                <span className="rating">{renderStars(item.rating)}</span>
-                                <span className="text-muted"> • {item.year}</span>
+                        {category === 'songs' && (
+                            <div className="card-content">
+                                <h3 className="card-title">{item.title}</h3>
                             </div>
-                        </div>
+                        )}
                     </Link>
                 ))}
             </div>

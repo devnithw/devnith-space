@@ -21,7 +21,7 @@
 
 .review-content {
     display: grid;
-    grid-template-columns: 350px 1fr;
+    grid-template-columns: 250px 1fr;
     gap: var(--spacing-xl);
     margin-top: var(--spacing-lg);
 }
@@ -43,7 +43,7 @@
 }
 
 .review-title {
-    font-size: clamp(2rem, 4vw, 3.5rem);
+    font-size: clamp(1.75rem, 3.5vw, 2.5rem);
     margin-bottom: var(--spacing-md);
     line-height: 1.1;
 }
@@ -76,7 +76,7 @@
 }
 
 .rating-large {
-    font-size: 1.25rem;
+    font-size: 1.1rem;
     color: var(--color-accent);
 }
 
@@ -91,14 +91,14 @@
 }
 
 .review-text h2 {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     margin-bottom: var(--spacing-md);
     color: var(--color-accent);
 }
 
 .review-text p {
-    font-size: 1.1rem;
-    line-height: 1.8;
+    font-size: 0.95rem;
+    line-height: 1.7;
     color: var(--color-text-secondary);
     text-align: justify;
 }
@@ -112,7 +112,7 @@
     .review-poster {
         position: relative;
         top: 0;
-        max-width: 350px;
+        max-width: 250px;
         margin: 0 auto;
     }
 
