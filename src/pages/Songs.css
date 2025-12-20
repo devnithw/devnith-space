@@ -1,0 +1,4 @@
+.songs-page {
+    min-height: calc(100vh - var(--nav-height));
+    padding-top: var(--spacing-xl);
+}

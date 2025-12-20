@@ -1,0 +1,62 @@
+[
+    {
+        "id": "song-1",
+        "title": "To Pimp a Butterfly",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png",
+        "year": 2015,
+        "rating": 5,
+        "genre": "Hip Hop",
+        "artist": "Kendrick Lamar",
+        "review": "A landmark album that redefined what hip-hop could be. Kendrick Lamar's third studio album is a sprawling, ambitious work that blends jazz, funk, soul, and spoken word into a cohesive meditation on Black identity, fame, and systemic oppression. The production is adventurous and organic, featuring live instrumentation that gives the album a timeless quality. Lyrically, Kendrick is at his peak—'The Blacker the Berry' is a furious examination of self-hatred and hypocrisy, while 'Alright' became an anthem of resilience. The album's structure, with its recurring poem and conversation with Tupac, creates a narrative arc. This is art that challenges, provokes, and ultimately uplifts."
+    },
+    {
+        "id": "song-2",
+        "title": "In Rainbows",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/1/14/Inrainbowscover.png",
+        "year": 2007,
+        "rating": 5,
+        "genre": "Alternative Rock",
+        "artist": "Radiohead",
+        "review": "Radiohead's most emotionally direct album. After the experimental density of Kid A and Amnesiac, In Rainbows feels warm and human. The album's pay-what-you-want release was revolutionary, but the music itself is what endures. '15 Step' opens with a glitchy, off-kilter rhythm that somehow feels inviting. 'Nude' is achingly beautiful, Thom Yorke's falsetto floating over lush strings. 'Weird Fishes/Arpeggi' builds and builds into transcendence. The production is pristine yet organic. Lyrically, Yorke explores love, anxiety, and connection with unusual vulnerability. This is a perfect album—not a weak track, every song essential to the whole."
+    },
+    {
+        "id": "song-3",
+        "title": "Blonde",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/a/a0/Blonde_-_Frank_Ocean.jpeg",
+        "year": 2016,
+        "rating": 5,
+        "genre": "R&B",
+        "artist": "Frank Ocean",
+        "review": "Frank Ocean's masterpiece of intimacy and experimentation. Blonde is a deeply personal album that feels like reading someone's diary. The production is minimal and unconventional—pitch-shifted vocals, ambient textures, and sparse instrumentation create a dreamlike atmosphere. 'Nikes' sets the tone with its warped vocals and melancholic meditation on materialism. 'Ivy' is a perfect breakup song, nostalgic and devastating. 'Nights' features one of the decade's best beat switches. Ocean's lyrics are poetic and elliptical, exploring love, identity, and memory. The album rewards repeated listening, revealing new layers each time. This is boundary-pushing R&B that's also profoundly emotional."
+    },
+    {
+        "id": "song-4",
+        "title": "The Velvet Underground & Nico",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/4/4b/The_Velvet_Underground_and_Nico.jpg",
+        "year": 1967,
+        "rating": 5,
+        "genre": "Art Rock",
+        "artist": "The Velvet Underground",
+        "review": "The most influential album you've never heard. Brian Eno famously said that only 30,000 people bought this album, but they all started bands. The Velvet Underground, produced by Andy Warhol, created something completely alien to 1967's Summer of Love. While the Beatles sang about love and peace, Lou Reed sang about heroin, sadomasochism, and urban decay. 'Heroin' is a harrowing seven-minute journey. 'Venus in Furs' is dark and droning. But there's also beauty—'Sunday Morning' is gentle and lovely, and 'I'll Be Your Mirror' is a perfect love song. John Cale's viola adds an avant-garde edge. This album invented alternative rock decades before the term existed."
+    },
+    {
+        "id": "song-5",
+        "title": "Rumours",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/fb/FMacRumours.PNG",
+        "year": 1977,
+        "rating": 5,
+        "genre": "Rock",
+        "artist": "Fleetwood Mac",
+        "review": "Pop perfection born from personal chaos. Rumours was recorded while the band was falling apart—two couples breaking up, cocaine everywhere, and egos clashing. Somehow, this turmoil produced one of the most polished, accessible albums ever made. Every song is a classic: 'Go Your Own Way' is bitter and catchy, 'Dreams' is ethereal and wise, 'The Chain' builds to that iconic bass line. The harmonies are immaculate, the production is pristine, and the songwriting is deceptively sophisticated. What makes it special is how personal pain is transformed into universal pop songs. You can hear the heartbreak, but you can also dance to it. This is the sound of a band at their peak, creating beauty from dysfunction."
+    },
+    {
+        "id": "song-6",
+        "title": "OK Computer",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/b/ba/Radioheadokcomputer.png",
+        "year": 1997,
+        "rating": 5,
+        "genre": "Alternative Rock",
+        "artist": "Radiohead",
+        "review": "The sound of millennial anxiety. Radiohead's third album predicted our current technological dystopia with eerie accuracy. 'Paranoid Android' is a six-minute epic that shifts between beauty and chaos. 'Karma Police' is anthemic yet unsettling. 'No Surprises' sounds like a lullaby for the depressed. The album explores alienation, technology's dehumanizing effects, and modern life's emptiness. Thom Yorke's lyrics are cryptic yet emotionally resonant. The production is adventurous—incorporating electronic elements while maintaining rock instrumentation. This album influenced countless bands and remains relevant because its themes—surveillance, consumerism, disconnection—have only intensified. This is essential listening for understanding late 20th-century rock."
+    }
+]

@@ -1,0 +1,122 @@
+.review-detail {
+    min-height: calc(100vh - var(--nav-height));
+    padding: var(--spacing-xl) 0;
+}
+
+.back-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: var(--spacing-lg);
+    color: var(--color-text-secondary);
+    font-size: 0.95rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    transition: color var(--transition-fast);
+}
+
+.back-link:hover {
+    color: var(--color-accent);
+}
+
+.review-content {
+    display: grid;
+    grid-template-columns: 350px 1fr;
+    gap: var(--spacing-xl);
+    margin-top: var(--spacing-lg);
+}
+
+.review-poster {
+    position: sticky;
+    top: calc(var(--nav-height) + var(--spacing-md));
+    height: fit-content;
+}
+
+.poster-image {
+    width: 100%;
+    border-radius: 4px;
+    box-shadow: var(--shadow-lg);
+}
+
+.review-info {
+    max-width: 800px;
+}
+
+.review-title {
+    font-size: clamp(2rem, 4vw, 3.5rem);
+    margin-bottom: var(--spacing-md);
+    line-height: 1.1;
+}
+
+.review-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-md);
+    margin-bottom: var(--spacing-xl);
+    padding-bottom: var(--spacing-md);
+    border-bottom: 1px solid var(--color-bg-tertiary);
+}
+
+.meta-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.meta-label {
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.meta-value {
+    font-size: 0.95rem;
+    color: var(--color-text-primary);
+}
+
+.rating-large {
+    font-size: 1.25rem;
+    color: var(--color-accent);
+}
+
+.type-badge {
+    padding: 0.25rem 0.75rem;
+    background: var(--color-accent);
+    color: var(--color-bg-primary);
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    border-radius: 2px;
+}
+
+.review-text h2 {
+    font-size: 1.5rem;
+    margin-bottom: var(--spacing-md);
+    color: var(--color-accent);
+}
+
+.review-text p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: var(--color-text-secondary);
+    text-align: justify;
+}
+
+@media (max-width: 968px) {
+    .review-content {
+        grid-template-columns: 1fr;
+        gap: var(--spacing-lg);
+    }
+
+    .review-poster {
+        position: relative;
+        top: 0;
+        max-width: 350px;
+        margin: 0 auto;
+    }
+
+    .review-text p {
+        text-align: left;
+    }
+}
