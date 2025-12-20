@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import MediaGrid from '../components/MediaGrid';
+import Footer from '../components/Footer';
 import cinemaData from '../data/cinema.json';
 import './Cinema.css';
 
@@ -20,8 +21,22 @@ function Cinema() {
                 <div className="page-header">
                     <h1>Cinema</h1>
                     <p className="page-description">
-                        Reviews of films and television series
+                        Best of films and television series in my rankings.
                     </p>
+                    <a
+                        href="https://letterboxd.com/devnithw/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="social-link"
+                    >
+                        Follow me on
+                        <svg className="social-icon" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+                            <circle cx="125" cy="250" r="125" fill="currentColor" fillOpacity="0.5" />
+                            <circle cx="375" cy="250" r="125" fill="currentColor" fillOpacity="0.5" />
+                            <circle cx="250" cy="250" r="125" fill="currentColor" />
+                        </svg>
+                        Letterboxd
+                    </a>
                 </div>
 
                 <div className="filter-tabs">
@@ -47,6 +62,7 @@ function Cinema() {
 
                 <MediaGrid items={filteredData} category="cinema" />
             </div>
+            <Footer />
         </div>
     );
 }

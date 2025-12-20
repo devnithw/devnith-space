@@ -18,11 +18,6 @@
 
 .featured-item {
     flex-shrink: 0;
-    transition: transform var(--transition-base);
-}
-
-.featured-item:hover {
-    transform: scale(1.05);
 }
 
 .featured-circle {
@@ -35,7 +30,7 @@
 }
 
 .featured-item:hover .featured-circle {
-    box-shadow: var(--shadow-lg), 0 0 0 2px var(--color-accent);
+    box-shadow: var(--shadow-md);
 }
 
 .featured-image {

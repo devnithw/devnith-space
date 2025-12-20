@@ -1,15 +1,15 @@
 [
     {
-        "id": "movie-1",
+        "id": "fightclub",
         "type": "movie",
-        "title": "Blade Runner 2049",
+        "title": "Fight Club",
         "coverImage": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
-        "year": 2017,
+        "year": 1999,
         "rating": 5,
-        "genre": "Sci-Fi",
-        "director": "Denis Villeneuve",
-        "date_added": "2024-11-15",
-        "review": "A masterpiece of visual storytelling. Villeneuve crafts a meditative sequel that honors the original while carving its own path. Roger Deakins' cinematography is nothing short of breathtaking—every frame could be a painting. The film asks profound questions about what it means to be human, memory, and identity. Ryan Gosling delivers a nuanced performance as K, a replicant blade runner searching for meaning in a world that denies him humanity. The synth-heavy score by Hans Zimmer and Benjamin Wallfisch perfectly complements the dystopian atmosphere. This is science fiction at its finest: thought-provoking, visually stunning, and emotionally resonant."
+        "genre": "Drama",
+        "director": "David Fincher",
+        "date_added": "2024-03-12",
+        "review": "A masterpiece of visual storytelling. David Fincher crafts a meditative sequel that honors the original while carving its own path. Roger Deakins' cinematography is nothing short of breathtaking—every frame could be a painting. The film asks profound questions about what it means to be human, memory, and identity. Ryan Gosling delivers a nuanced performance as K, a replicant blade runner searching for meaning in a world that denies him humanity. The synth-heavy score by Hans Zimmer and Benjamin Wallfisch perfectly complements the dystopian atmosphere. This is science fiction at its finest: thought-provoking, visually stunning, and emotionally resonant."
     },
     {
         "id": "movie-2",

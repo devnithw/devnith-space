@@ -1,5 +1,6 @@
 import { useParams, useNavigate, Link } from 'react-router-dom';
 import { useEffect, useState } from 'react';
+import Footer from './Footer';
 import './ReviewDetail.css';
 
 function ReviewDetail({ data, category }) {
@@ -32,6 +33,24 @@ function ReviewDetail({ data, category }) {
 
     const getCreatorName = () => {
         return item.director || item.creator || item.author || item.artist;
+    };
+
+    const parseHighlightedText = (text) => {
+        // Split text by highlight tags [[highlight:...]]
+        const parts = text.split(/(\[\[highlight:.*?\]\])/g);
+
+        return parts.map((part, index) => {
+            // Check if this part is a highlight tag
+            const highlightMatch = part.match(/\[\[highlight:(.*?)\]\]/);
+            if (highlightMatch) {
+                return (
+                    <span key={index} className="highlight-text">
+                        {highlightMatch[1]}
+                    </span>
+                );
+            }
+            return part;
+        });
     };
 
     return (
@@ -78,11 +97,12 @@ function ReviewDetail({ data, category }) {
 
                         <div className="review-text">
                             <h2>Review</h2>
-                            <p>{item.review}</p>
+                            <p>{parseHighlightedText(item.review)}</p>
                         </div>
                     </div>
                 </div>
             </div>
+            <Footer />
         </div>
     );
 }

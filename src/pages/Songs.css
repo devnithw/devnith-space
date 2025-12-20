@@ -2,3 +2,42 @@
     min-height: calc(100vh - var(--nav-height));
     padding-top: var(--spacing-xl);
 }
+
+.page-header {
+    text-align: center;
+    margin-bottom: var(--spacing-xl);
+}
+
+.page-header h1 {
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    margin-bottom: var(--spacing-sm);
+}
+
+.page-description {
+    font-size: 1.1rem;
+    color: var(--color-text-secondary);
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.social-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: var(--spacing-md);
+    color: var(--color-accent);
+    font-size: 0.9rem;
+    font-weight: 500;
+    text-decoration: none;
+    transition: opacity var(--transition-fast);
+}
+
+.social-link:hover {
+    opacity: 0.8;
+}
+
+.social-icon {
+    width: 20px;
+    height: 20px;
+    color: var(--color-accent);
+}

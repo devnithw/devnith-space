@@ -27,16 +27,14 @@ function Home() {
                 <div className="container">
                     <h1 className="hero-title">Devnith's Space</h1>
                     <p className="hero-subtitle">
-                        A personal collection of reviews on cinema, literature, and music.
+                        A personal collection of reviews on cinema, literature, and music. These are selected items from my most preffered media.
                     </p>
                 </div>
             </section>
 
             <FeaturedStrip items={recentMedia} />
 
-            <div className="home-footer">
-                <Footer />
-            </div>
+            <Footer />
         </div>
     );
 }
