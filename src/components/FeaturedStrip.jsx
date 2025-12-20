@@ -51,7 +51,7 @@ function FeaturedStrip({ items }) {
                             className="featured-item"
                             onClick={handleClick}
                         >
-                            <div className="featured-circle">
+                            <div className={`featured-circle ${item.category === 'songs' ? 'featured-square' : ''}`}>
                                 <img
                                     src={item.coverImage}
                                     alt={item.title}

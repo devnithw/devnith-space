@@ -2,24 +2,20 @@ import FeaturedStrip from '../components/FeaturedStrip';
 import Footer from '../components/Footer';
 import cinemaData from '../data/cinema.json';
 import booksData from '../data/books.json';
+import songsData from '../data/songs.json';
 import './Home.css';
 
 function Home() {
-    const getRecentMedia = () => {
-        // Combine cinema and books
-        const combined = [
-            ...cinemaData.map(item => ({ ...item, category: 'cinema' })),
-            ...booksData.map(item => ({ ...item, category: 'books' }))
-        ];
+    // Combine all media and select 10 random items
+    const allMedia = [
+        ...cinemaData.map(item => ({ ...item, category: 'cinema' })),
+        ...booksData.map(item => ({ ...item, category: 'books' })),
+        ...songsData.map(item => ({ ...item, category: 'songs' }))
+    ];
 
-        // Sort by date_added (most recent first)
-        combined.sort((a, b) => new Date(b.date_added) - new Date(a.date_added));
-
-        // Return top 10
-        return combined.slice(0, 10);
-    };
-
-    const recentMedia = getRecentMedia();
+    // Shuffle and take 10 random items
+    const shuffled = [...allMedia].sort(() => Math.random() - 0.5);
+    const randomMedia = shuffled.slice(0, 10);
 
     return (
         <div className="home">
@@ -27,12 +23,12 @@ function Home() {
                 <div className="container">
                     <h1 className="hero-title">Devnith's Space</h1>
                     <p className="hero-subtitle">
-                        A personal collection of reviews on cinema, literature, and music. These are selected items from my most preffered media.
+                        A collection of reviews on cinema, literature, and music. These are my personal favourites and may not be the highest rated or popular :)
                     </p>
                 </div>
             </section>
 
-            <FeaturedStrip items={recentMedia} />
+            <FeaturedStrip items={randomMedia} />
 
             <Footer />
         </div>

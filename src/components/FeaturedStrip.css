@@ -12,6 +12,7 @@
 
 .featured-items {
     display: flex;
+    align-items: flex-end;
     gap: var(--spacing-lg);
     padding: 0 var(--spacing-md);
 }
@@ -39,10 +40,20 @@
     object-fit: cover;
 }
 
+.featured-square {
+    width: 130px;
+    height: 130px;
+}
+
 @media (max-width: 768px) {
     .featured-circle {
         width: 100px;
         height: 150px;
+    }
+
+    .featured-square {
+        width: 100px;
+        height: 100px;
     }
 
     .featured-items {

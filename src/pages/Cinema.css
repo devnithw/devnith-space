@@ -44,13 +44,20 @@
 
 .filter-tab:hover {
     border-color: var(--color-accent);
-    color: var(--color-accent);
+    background: var(--color-accent);
+    color: var(--color-bg-primary);
 }
 
 .filter-tab.active {
-    background: var(--color-accent);
+    background: var(--color-accent-glow);
     border-color: var(--color-accent);
-    color: var(--color-bg-primary);
+    color: var(--color-accent);
+}
+
+.cinema-page .footer,
+.books-page .footer,
+.songs-page .footer {
+    margin-top: 0;
 }
 
 .social-link {

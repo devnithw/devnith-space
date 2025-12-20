@@ -14,9 +14,9 @@
     {
         "id": "whitenights",
         "title": "White Nights",
-        "coverImage": "https://covers.openlibrary.org/b/isbn/9780241252086-L.jpg",
+        "coverImage": "https://covers.openlibrary.org/b/olid/OL49273234M-L.jpg",
         "year": 1918,
-        "rating": 4,
+        "rating": 3,
         "genre": "Fiction",
         "type": "fiction",
         "author": "Fyodor Dostoevsky",
@@ -34,5 +34,53 @@
         "author": "George S. Clason",
         "date_added": "2021-10-22",
         "review": "A very dumbed down story-telling approach to financial literacy. Deeply resonated with me compared to [[highlight: Rich Dad Poor Dad]]. I like the simple examples and analogies it uses to teach good financial principles. Recommended starting point for anyone looking to manage personal finances better."
+    },
+    {
+        "id": "threebodyproblem",
+        "title": "The Three-Body Problem",
+        "coverImage": "https://covers.openlibrary.org/b/olid/OL25840917M-L.jpg",
+        "year": 2008,
+        "rating": 3,
+        "genre": "Science fiction",
+        "type": "fiction",
+        "author": "Cixin Liu",
+        "date_added": "2025-08-12",
+        "review": "Reading this book was so much better than watching the Netflix series. Sad that they have removed most of the science stuff and dumbed it down for general people to understand. The book covers more theoretical foundation and history of the Trisolarians. My favourite scene from the book is where the sophons are unravelled into larger dimensional space, in which the experiments go wrong and a large eye in the sky nearly destroys the trisolarians."
+    },
+    {
+        "id": "nolongerhuman",
+        "title": "No Longer Human",
+        "coverImage": "https://covers.openlibrary.org/b/olid/OL14546269M-L.jpg",
+        "year": 1948,
+        "rating": 4,
+        "genre": "Fiction",
+        "type": "fiction",
+        "author": "Osamu Dazai",
+        "date_added": "2023-04-17",
+        "review": "Very depressing book. Narrates tragical events of a man who hates himself. Explores the extreme ends of self-destruction."
+    },
+    {
+        "id": "glassbeadgame",
+        "title": "The Glass Bead Game",
+        "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1386922806i/16634.jpg",
+        "year": 1943,
+        "rating": 5,
+        "genre": "Fiction",
+        "type": "fiction",
+        "author": "Hermann Hesse",
+        "date_added": "2025-12-20",
+        "review": "Complicated book but my favourite so far. From my favourite author as well. A bit lengthy and the wording is hard to comphrehend. Only for seasoned readers. It's a mystical vibe in a sense since the true 'how to play' of the Glass Bead Game is never mentioned."
+    },
+    {
+        "id": "farhernheit451",
+        "title": "Fahrenheit 451",
+        "coverImage": "https://covers.openlibrary.org/b/olid/OL26437046M-L.jpg",
+        "year": 1953,
+        "rating": 5,
+        "genre": "Fiction",
+        "type": "fiction",
+        "author": "Ray Bradbury",
+        "date_added": "2025-10-25",
+        "review": "Set in a dystopian future (or an alternate timeline) with steam-punk (?) aesthetics. The core theme of [[highlight:man's search for meaning and wisdom]] is there and I love it. These types of themes open up many views about the world and different interpretations so I believe it's important to read them."
     }
 ]

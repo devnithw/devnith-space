@@ -41,7 +41,7 @@
         "genre": "Dream pop",
         "artist": "The 1975",
         "date_added": "2025-03-15",
-        "review": "The 1975 nails the dream pop genre with this song. The best rendition of star-crossed lovers in music history in my opinion. Favourite lyrics being [[highlight:'Hold on and hope that we'll find our way back in the end']]"
+        "review": "The 1975 nails the dream pop genre with this song. The best rendition of star-crossed lovers in music history in my opinion. Favourite lyrics being [[highlight:'Hold on and hope that we'll find our way back in the end']]. I still can't go on a train ride without this song playing in the back of my head."
     },
     {
         "id": "close2you",
@@ -53,5 +53,49 @@
         "artist": "Gracie Abrams",
         "date_added": "2024-06-10",
         "review": "Started listening to this during the April 2024. The song exactly matches the events happened in my life during that time, especially at the Prom night with the lyrics saying [[highlight:'smoky dark crowded room I need nothing, under pink light in june']], "
+    },
+    {
+        "id": "wannabeyours",
+        "title": "I Wanna Be Yours",
+        "coverImage": "https://coverartarchive.org/release/aa087ce4-d417-45e3-bff0-db21b61e8daf/38572734468-500.jpg",
+        "year": 2013,
+        "rating": 4,
+        "genre": "Indie rock",
+        "artist": "Arctic Monkeys",
+        "date_added": "2021-03-16",
+        "review": "Top-notch soft rock song to slow dance to."
+    },
+    {
+        "id": "heavy",
+        "title": "Heavy",
+        "coverImage": "https://coverartarchive.org/release/4c855c8e-cc86-42e3-8a06-4f294d3f27a1/39354492433-500.jpg",
+        "year": 2021,
+        "rating": 4,
+        "genre": "Indie pop",
+        "artist": "The Marias",
+        "date_added": "2025-02-12",
+        "review": "Dream pop song great for slow dancing and to listen on a train ride. Listened to this song greatly while I first moved to Sydney."
+    },
+    {
+        "id": "strawberriesncigarettes",
+        "title": "Strawberries and Cigarettes",
+        "coverImage": "https://coverartarchive.org/release/ada206e9-3185-4733-ae4e-23c11b871d77/32140646154-500.jpg",
+        "year": 2018,
+        "rating": 3,
+        "genre": "Electro pop",
+        "artist": "Troye Sivan",
+        "date_added": "2022-12-13",
+        "review": "Good beat and you can almost feel the aesthetics of this song (although I haven't smoked ever in my life)"
+    },
+    {
+        "id": "cityofangels",
+        "title": "City of Angels",
+        "coverImage": "https://coverartarchive.org/release/beaf3eb9-3b90-4e85-95d8-f46a8123a5a4/40616449519-500.jpg",
+        "year": 2013,
+        "rating": 2,
+        "genre": "Alternative rock",
+        "artist": "Thirty seconds to mars",
+        "date_added": "2025-12-02",
+        "review": "Good song to listen when you want to start again."
     }
 ]

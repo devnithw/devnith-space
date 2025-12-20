@@ -41,3 +41,7 @@
     height: 20px;
     color: var(--color-accent);
 }
+
+.songs-page .footer {
+    margin-top: 0;
+}

@@ -215,6 +215,11 @@ a:hover {
   font-family: var(--font-sans);
   font-weight: 500;
   font-size: 0.95rem;
+  transition: color var(--transition-fast);
+}
+
+.card:hover .card-title-sans {
+  color: var(--color-accent);
 }
 
 .card-artist {
