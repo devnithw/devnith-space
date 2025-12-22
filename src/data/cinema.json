@@ -250,5 +250,53 @@
         "director": "John A. Norris",
         "date_added": "2025-06-13",
         "review": "A very under-rated tv show. Has the [[highlight: small-town americana vibe with mystery]] vibe and the plot is very good. The first season ended on a cliff hanger, I was eager to watch the next season, but the show got cancelled somehow. A unpopular but very feel-good show."
+    },
+    {
+        "id": "monkeyman",
+        "type": "movie",
+        "title": "Monkey Man",
+        "coverImage": "https://media.themoviedb.org/t/p/w440_and_h660_face/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg",
+        "year": 2024,
+        "rating": 3,
+        "genre": "Action, Thriller",
+        "director": "Dev Patel",
+        "date_added": "2024-04-05",
+        "review": "A very action packed movie set in a hypothetical futuristic Neo-India. Fight scenes are superb and felt like the Indian John Wick. Music is also good. Saw this movie randomly during a group outing with uni friends to the cinema."
+    },
+    {
+        "id": "50firstdates",
+        "type": "movie",
+        "title": "50 First Dates",
+        "coverImage": "https://image.tmdb.org/t/p/original/4T0cSswKtXk37r0QbqoLbTtlbO1.jpg",
+        "year": 2004,
+        "rating": 3,
+        "genre": "Romance, Comedy",
+        "director": "Peter Segal",
+        "date_added": "2017-12-03",
+        "review": "Very good rom-com. The concept is also very interesting. The ending was feel-good also. Not like modern rom-coms this one really evokes feelings. You become genuinely curious about how the story will end as the protaganist falls in love with a girl who has severe memory loss. One of the good films of Adam Sandler."
+    },
+    {
+        "id": "bicycletheieves",
+        "type": "movie",
+        "title": "Bicycle Thieves",
+        "coverImage": "https://image.tmdb.org/t/p/original/7ZiSTZN5FWsphVmlwFVFfn5EOl.jpg",
+        "year": 1948,
+        "rating": 4,
+        "genre": "Drama",
+        "director": "Vittorio De Sica",
+        "date_added": "2025-07-01",
+        "review": "A must watch film belonging to Italian neorealist drama genre. Black and white movie set in post-war Italy. Explores themes of poverty, desperation, and family bonds. The cinematography is top-notch and the story is very emotional. This one is a classic but highly recommended."
+    },
+    {
+        "id": "materialists",
+        "type": "movie",
+        "title": "Materialists",
+        "coverImage": "https://image.tmdb.org/t/p/original/zh4kaa2dGhVjojHulCWt3AR4b2l.jpg",
+        "year": 2025,
+        "rating": 3,
+        "genre": "Romance, Drama",
+        "director": "Celine Song",
+        "date_added": "2025-06-19",
+        "review": "Although I thought this was another modern romance movie with shallow themes, Celine Song conveyed a great message and I was impressed. In her words [[highlight:'this is not a movie about love, but a movie about money']]. I love the deeper meaning in this movie. For a person who takes the shallow message, it's generally another romance drama. But if you process about it deeper, there's a very morally gray message."
     }
 ]
