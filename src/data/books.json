@@ -2,7 +2,7 @@
     {
         "id": "siddartha",
         "title": "Siddartha",
-        "coverImage": "https://covers.openlibrary.org/b/isbn/9780553208849-L.jpg",
+        "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1629378189i/52036.jpg",
         "year": 1989,
         "rating": 5,
         "genre": "Fiction",
@@ -14,7 +14,7 @@
     {
         "id": "whitenights",
         "title": "White Nights",
-        "coverImage": "https://covers.openlibrary.org/b/olid/OL49273234M-L.jpg",
+        "coverImage": "https://m.media-amazon.com/images/I/51lMJWnnRDL._SL1500_.jpg",
         "year": 1918,
         "rating": 3,
         "genre": "Fiction",
@@ -26,7 +26,7 @@
     {
         "id": "richestmanbabylon",
         "title": "The Richest Man in Babylon",
-        "coverImage": "https://covers.openlibrary.org/b/isbn/9789388144315-L.jpg",
+        "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1543897827i/43097201.jpg",
         "year": 1926,
         "rating": 3,
         "genre": "Financial literacy",
@@ -38,7 +38,7 @@
     {
         "id": "threebodyproblem",
         "title": "The Three-Body Problem",
-        "coverImage": "https://covers.openlibrary.org/b/olid/OL25840917M-L.jpg",
+        "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1415428227i/20518872.jpg",
         "year": 2008,
         "rating": 3,
         "genre": "Science fiction",
@@ -50,7 +50,7 @@
     {
         "id": "nolongerhuman",
         "title": "No Longer Human",
-        "coverImage": "https://covers.openlibrary.org/b/olid/OL14546269M-L.jpg",
+        "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1512514853i/17665637.jpg",
         "year": 1948,
         "rating": 4,
         "genre": "Fiction",
@@ -74,7 +74,7 @@
     {
         "id": "farhernheit451",
         "title": "Fahrenheit 451",
-        "coverImage": "https://covers.openlibrary.org/b/olid/OL26437046M-L.jpg",
+        "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1383718290i/13079982.jpg",
         "year": 1953,
         "rating": 5,
         "genre": "Fiction",
