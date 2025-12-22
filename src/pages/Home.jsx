@@ -9,7 +9,7 @@ function Home() {
     // Combine all media and select 10 random items
     const allMedia = [
         ...cinemaData.map(item => ({ ...item, category: 'cinema' })),
-        ...booksData.map(item => ({ ...item, category: 'books' })),
+        ...booksData.filter(item => item.type === 'fiction').map(item => ({ ...item, category: 'books' })),
         ...songsData.map(item => ({ ...item, category: 'songs' }))
     ];
 
@@ -23,8 +23,12 @@ function Home() {
                 <div className="container">
                     <h1 className="hero-title">Devnith's Space</h1>
                     <p className="hero-subtitle">
-                        A collection of reviews on cinema, literature, and music. These are my personal favourites and may not be the highest rated or popular :)
+                        A collection of reviews on cinema, books, and music. These are my personal favourites and may not be the highest rated or popular :)
                     </p>
+                    <div className="currently-watching">
+                        <span className="pulse-indicator"></span>
+                        <span className="watching-text">Currently watching: <span className="watching-title">Fallen Angels by Wong Kar-wai</span></span>
+                    </div>
                 </div>
             </section>
 
