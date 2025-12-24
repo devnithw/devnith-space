@@ -298,5 +298,29 @@
         "director": "Celine Song",
         "date_added": "2025-06-19",
         "review": "Although I thought this was another modern romance movie with shallow themes, Celine Song conveyed a great message and I was impressed. In her words [[highlight:'this is not a movie about love, but a movie about money']]. I love the deeper meaning in this movie. For a person who takes the shallow message, it's generally another romance drama. But if you process about it deeper, there's a very morally gray message."
+    },
+    {
+        "id": "lastnightinsoho",
+        "type": "movie",
+        "title": "Last Night in Soho",
+        "coverImage": "https://image.tmdb.org/t/p/original/ahbwIJl7T0D34m3sPKlBaCqs2xH.jpg",
+        "year": 2021,
+        "rating": 4,
+        "genre": "Drama, Mystery",
+        "director": "Edgar Wright",
+        "date_added": "2025-12-23",
+        "review": "Love the cinematography in this movie. The transitions and cuts are mindblowing. The movie starts off very light-hearted but as the plot progresses it gets darker and darker. I loved the old London vibe. The soundtracks are also very well picked. The ending is quite very opposite to how the movie starts. The color theory and lighting is also spot on (but it gets a bit too much at the end in my opinion). I found Thomasin McKenzie's acting at the start very impressive (of course towards the end its great also). "
+    },
+    {
+        "id": "beforesunrise",
+        "type": "movie",
+        "title": "Before Sunrise",
+        "coverImage": "https://image.tmdb.org/t/p/original/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
+        "year": 1995,
+        "rating": 5,
+        "genre": "Romance, Drama",
+        "director": "Richard Linklater",
+        "date_added": "2025-12-23",
+        "review": "One of the best movies about life ever made. This movie feels ver candid and unscripted. The way sometimes the characters screw up their lines and have awkward interactions makes it feel more real. There's a very long scene on the tram without a cut, and I can't believe how they remembered those lines, they have got to be improvising. This movie also shares very interesting perspectives on life and love. I think it's very important people watch this to understand life better. Even though this is an old movie, the views are liberal but not as degenerate as they are today. There is a very pure, innocent vibe in the debates between Jesse and Celine. Highly recommeneded for peope in their 20's figuring out life."
     }
 ]

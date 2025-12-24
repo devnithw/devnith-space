@@ -27,7 +27,7 @@ function Home() {
                     </p>
                     <div className="currently-watching">
                         <span className="pulse-indicator"></span>
-                        <span className="watching-text">Currently watching: <span className="watching-title">Fallen Angels by Wong Kar-wai</span></span>
+                        <span className="watching-text">Currently watching: <span className="watching-title">Severance</span></span>
                     </div>
                 </div>
             </section>
